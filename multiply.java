@@ -1,9 +1,10 @@
 public class multiply {
   public static void main(String[] args) {
     
-    int a=10;
+    int a=20;
     int b=5;
-        System.out.println("the multiply is" + (a*b));
+    int c=1;
+        System.out.println("the multiply is" + (a*b*c));
     }
     
     
